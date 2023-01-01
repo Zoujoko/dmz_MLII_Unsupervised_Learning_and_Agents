@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from agent import Agent
-from dmz_stochastic_policy import dmz_policy
+from dmz_policy import dmz_policy
 
 WORLD_SIZE = 8
 WORLD_UPDATE_PERIOD = 10
